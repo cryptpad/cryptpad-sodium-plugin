@@ -1,0 +1,13 @@
+{
+  "name": "cryptpad-sodium-plugin",
+  "description": "Sodium plugin for CryptPad",
+  "version": "0.0.1",
+  "license": "AGPL-3.0+",
+  "dependencies": {
+  },
+  "optionalDependencies": {
+    "sodium-native": "^4.1.1"
+  },
+  "devDependencies": {
+  }
+}
